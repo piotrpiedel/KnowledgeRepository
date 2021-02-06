@@ -1,5 +1,5 @@
 ## Knowledge repository
-### Kanały na youtube
+### Yotutube channels - recommended
 - confiturapl  - https://www.youtube.com/channel/UCkVjQGf_e0JmlonPMS4VNXQ
 - Warsaw JUG - https://www.youtube.com/channel/UC2coGyxf5x_CzJ3l4F-N-Sw
 - Polish JUG (Kraków) - https://www.youtube.com/channel/UCFQJHkJln2LF1gYy3lMqCnw
@@ -99,5 +99,57 @@ https://youtu.be/zsfEWLGgsEY
 https://youtu.be/SxqK8jo7vdY
 - 2013 - Tomek Cejner - Moda na REST - o tworzeniu pięknych API
 https://youtu.be/Bh5csZWenUM
+- 2012 - Tomasz Nurkiewicz - Uwolnic sie od "if"
+https://youtu.be/xAMbxSCSyio
+
+###  Programming - good practices
+- Architektura heksagonalna i droga do eliminowania komplikacji - Przemysław Bykowski
+https://youtu.be/072sjZdthaQ
+- Live refactoring towards solid code - Bartłomiej Słota
+https://youtu.be/BGNzWpSlR1Q
+- Jinkubator #38 - Clean Code - Tomasz Kucharski
+https://youtu.be/r9XTEOHaotc
+- Jinkubator #27 - Wzorce projektowe - Krzysztof Jelski
+https://youtu.be/RADOhncoohY
+- WJUG #278 Wzorce projektowe szyte pod Springa|Server Sent Events - Event Streaming Beyond WebSockets, Michał Rowicki, Michał Kapiczyński
+https://youtu.be/-GaRgTyiNIQ
+- Revisiting Effective Java in 2018 (E. Yanaga)
+https://youtu.be/ANZXvXVa1Lg
+- Effective Java, Third Edition Keepin' it Effective (J. Bloch)
+https://youtu.be/hSfylUXhpkA
+- 2014 - Sławomir Sobótka - Nie koduj, pisz prozę - lingwistyczne techniki wychodzące poza Clean Code
+https://youtu.be/CKONKZLmMwk
+- 2013 - Sławomir Sobótka - Model jest wszystkim czego potrzebujesz
+https://youtu.be/iaLeKHbspLg
+- Jinkubator #32 - Be effective, be IntelliJ, czyli jak zintegrować się z własnym IDE - Cezary Draus
+https://youtu.be/Qzz3aEaFv3s
+- Improving your Test Driven Development in 45 minutes - Jakub Nabrdalik
+https://youtu.be/PwMNtiKb-P4
+- WJUG #228 - Jakub Nabrdalik: User Stories considered harmful
+https://youtu.be/ATZ0GEMSivM
+- GOTO 2012 • Introduction to NoSQL • Martin Fowler
+https://youtu.be/qI_g07C_Q5I
+- GOTO 2015 • Agile is Dead • Pragmatic Dave Thomas
+https://youtu.be/a-BOSpxYJ9M
+- Jakub Nabrdalik - Keep it clean. Public enemy No. 1... | #30 IT Akademia j-labs
+https://youtu.be/5Q8kiSN6390
+- JDD 2016: C4 - lekkie podejście do dokumentowania architektury (Sławomir Sobótka)
+https://youtu.be/yYxGLf6wPW4
+- 2019 - Jakub Kubala - Small things, huge impact at big scale - lessons learned, platform 30M users
+https://youtu.be/_Xe1-l4hRf0
+- 2019 - Jacek Milewski - Testy automatyczne: Czego kursy Cię nie nauczą
+https://youtu.be/FcLVh2kH-ic
+- WJUG #201 - Robert Szarejko: Co back-end developer powinien wiedzieć o web security?
+https://youtu.be/wMNF66dBizY
+- Jinkubator #3 - GIT - krok po kroku - Michał Lewandowski
+https://youtu.be/QrJ5cdX1ir4
+- Jinkubator #34 - Od zera do kodera - warsztat developera - Piotr Guzik
+https://youtu.be/_H0h4QXjAOw
+- Jinkubator #7 - Podstawy testowania - Adam Pierzchała
+https://youtu.be/dwNVYrMRFDE
+- Jinkubator #3 - GIT - krok po kroku - Michał Lewandowski
+https://youtu.be/QrJ5cdX1ir4
+- 2013 - Jakub Nabrdalik - Test Driven Traps
+https://youtu.be/wbAtJlbRhbQ
 - 2012 - Tomasz Nurkiewicz - Uwolnic sie od "if"
 https://youtu.be/xAMbxSCSyio
