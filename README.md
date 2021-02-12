@@ -4,6 +4,17 @@
 - Warsaw JUG - https://www.youtube.com/channel/UC2coGyxf5x_CzJ3l4F-N-Sw
 - Polish JUG (Kraków) - https://www.youtube.com/channel/UCFQJHkJln2LF1gYy3lMqCnw
 - Devoxx - https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg
+### Prelegents:
+- Adam Dubiel
+- Grzegorz Piwowarek
+- Jakub Nabrdalik
+- Jakub Kubrynski
+- Jakub Pilimon
+- Jaroslaw Palka
+- Jarek Ratajski
+- Marcin Grzejszczak
+- Sławek Sobótka
+- Tomasz Nurkiewicz
 ###  Carrier - software engineer
 - Jinkubator #34 - Od zera do kodera - warsztat developera - Piotr Guzik https://youtu.be/_H0h4QXjAOw 
 -  WJUG #184 - Peer-2-Peer Salary Review - Jakub Nabrdalik
