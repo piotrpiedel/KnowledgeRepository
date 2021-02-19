@@ -1,9 +1,9 @@
 ## Knowledge repository
 ### Yotutube channels - recommended
-- confiturapl  - https://www.youtube.com/channel/UCkVjQGf_e0JmlonPMS4VNXQ
-- Warsaw JUG - https://www.youtube.com/channel/UC2coGyxf5x_CzJ3l4F-N-Sw
-- Polish JUG (Kraków) - https://www.youtube.com/channel/UCFQJHkJln2LF1gYy3lMqCnw
-- Devoxx - https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg
+- [confiturapl](https://www.youtube.com/channel/UCkVjQGf_e0JmlonPMS4VNXQ)
+- [Warsaw JUG](https://www.youtube.com/channel/UC2coGyxf5x_CzJ3l4F-N-Sw)
+- [Polish JUG (Kraków)](https://www.youtube.com/channel/UCFQJHkJln2LF1gYy3lMqCnw)
+- [Devoxx](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg)
 ### Prelegents:
 - Adam Dubiel
 - Grzegorz Piwowarek
