@@ -104,7 +104,7 @@ Great series about design patterns. Very pedagogical approach with lot of drawin
 - [WJUG #164​ - Mhm, mikroserwisy. Już wiesz, że wtopiłeś... - Marcin Matuszak](https://youtu.be/d_RwASXkPqE)
 - [WJUG #207​ - Mateusz Gajewski: 4 lata rewolucji mikrousługowej w Allegro](https://youtu.be/_X89vxbuExE)
 - [WJUG #189​ - Consumer Driven Contracts and Your Microservice Architecture - Marcin Grzejszczak](https://youtu.be/sAAklvxmPmk)
-- 
+
 ###  Programming - JAVA
 - [Jinkubator #40 - JVM Internals - Jakub Kubryński](https://youtu.be/rWdgla54bcc)
 - [WJUG #201​ - Robert Szarejko: Co back-end developer powinien wiedzieć o web security?](https://youtu.be/wMNF66dBizY)
