@@ -29,7 +29,7 @@
 - [WJUG #228 - Jakub Nabrdalik: User Stories considered harmful](https://youtu.be/ATZ0GEMSivM)
 - [GOTO 2019 • Quantum Computing • Jessica Pointing](https://youtu.be/d2pGGNQ63GQ)
 - [2018 - Jakub Kubryński, Sławomir Sobótka, Michał Michaluk - Programistów z biznesem przypadki trudne](https://youtu.be/3eCSYexlf8M)
-- [2018 - Jakub Nabrdalik - Requirements & BDD: The lost art of analysis and acceptance scenarios](https://youtu.be/xNWFy8t2m_Y\)
+- [2018 - Jakub Nabrdalik - Requirements & BDD: The lost art of analysis and acceptance scenarios](https://youtu.be/xNWFy8t2m_Y)
 - [2017 - Michał Płachta - Deweloper na detoksie](https://youtu.be/O3MB56R_eqw)
 - [2019 - Brandon Nuttall - Keynote: What is the future of work?](https://youtu.be/AxbkyFDNUbA)
 - [2015 - Sławomir Sobótka - Jak prezentować swoje pomysły przed ludźmi technicznymi i biznesem](https://youtu.be/YtkQ9f8ZqB0)
