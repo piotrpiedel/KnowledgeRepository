@@ -97,6 +97,7 @@ Great series about design patterns. Very pedagogical approach with lot of drawin
 - [Jinkubator #3 - GIT - krok po kroku - Michał Lewandowski](https://youtu.be/QrJ5cdX1ir4)
 - [2013 - Jakub Nabrdalik - Test Driven Traps](https://youtu.be/wbAtJlbRhbQ)
 - [2012 - Tomasz Nurkiewicz - Uwolnic sie od "if"](https://youtu.be/xAMbxSCSyio)
+- [GOTO 2017 • Wiele znaczeń Architektury Sterowanej Zdarzeniami (Event-Driven) • Martin Fowler](https://youtu.be/STKCRSUsyP0)
 
 ###  Architecture - microservices
 - [WJUG #165​ - Microservices - enough with theory, let's code some - T. Szymański, M. Grzejszczak](https://youtu.be/L7zrYHXSCKM)
