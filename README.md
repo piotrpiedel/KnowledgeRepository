@@ -38,10 +38,10 @@
 - [2013 - Wojciech Seliga - Java Developer Career Unplugged](https://youtu.be/k5aIOMuG1Js)
 - [2012 - Sławomir Sobótka - Ścisły przewodnik po aspektach miękkich dla ekspertów IT](https://youtu.be/1tN_Dgbw1BY)
 ### Design Patterns in Object Oriented Programming
-- Video series on Design Patterns for Object Oriented Languages 
-Christopher Okhravi
+- [Video series on Design Patterns for Object Oriented Languages 
+Christopher Okhravi](https://youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
 Great series about design patterns. Very pedagogical approach with lot of drawing and examples.
-https://youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc
+
 
 ###  Architecture topics
 - [2016 - Sławomir Sobótka - C4 - lekkie podejście do dokumentowania architektury](https://youtu.be/FoMEgnMKhK0)
