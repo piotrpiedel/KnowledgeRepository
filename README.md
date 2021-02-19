@@ -45,7 +45,7 @@ https://youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc
 
 ###  Architecture topics
 - [2016 - Sławomir Sobótka - C4 - lekkie podejście do dokumentowania architektury](https://youtu.be/FoMEgnMKhK0)
-- WJUG #177 - Domain Driven Design w praktyce - Krzysztof Muchewicz](https://youtu.be/sWvS8GC2AO4)
+- [WJUG #177 - Domain Driven Design w praktyce - Krzysztof Muchewicz](https://youtu.be/sWvS8GC2AO4)
 - [2016 - Sławomir Sobótka - C4 - lekkie podejście do dokumentowania architektury](https://youtu.be/FoMEgnMKhK0)
 - [2017 - Jakub Kubryński - Studium przypadku wystarczająco dobrej architektury](https://youtu.be/yM_CMWutuzI)
 - [WJUG #232 - Jakub Kubryński: Architektura sterowana metrykami](https://youtu.be/AVzElCjDHMg)
