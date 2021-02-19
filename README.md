@@ -109,3 +109,10 @@ Great series about design patterns. Very pedagogical approach with lot of drawin
 - [Jinkubator #40 - JVM Internals - Jakub Kubryński](https://youtu.be/rWdgla54bcc)
 - [WJUG #201​ - Robert Szarejko: Co back-end developer powinien wiedzieć o web security?](https://youtu.be/wMNF66dBizY)
 - [WJUG #199​ - Mateusz Kaczmarek: Concurrency in Java - Comprehensive](https://youtu.be/bhNHvZ9xsC4)
+
+###  Blogs
+- [Allegro.tech](https://allegro.tech/)
+- [No Kill Switch](https://no-kill-switch.ghost.io/)
+- [Object Calisthenics | William Durand](https://williamdurand.fr/2013/06/03/object-calisthenics/)
+
+
