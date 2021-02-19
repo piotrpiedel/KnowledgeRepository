@@ -97,3 +97,10 @@ Great series about design patterns. Very pedagogical approach with lot of drawin
 - [Jinkubator #3 - GIT - krok po kroku - Michał Lewandowski](https://youtu.be/QrJ5cdX1ir4)
 - [2013 - Jakub Nabrdalik - Test Driven Traps](https://youtu.be/wbAtJlbRhbQ)
 - [2012 - Tomasz Nurkiewicz - Uwolnic sie od "if"](https://youtu.be/xAMbxSCSyio)
+
+###  Architecture - microservices
+- [WJUG #165​ - Microservices - enough with theory, let's code some - T. Szymański, M. Grzejszczak](https://youtu.be/L7zrYHXSCKM)
+- [2019 - Jakub Nabrdalik - Common mistakes when moving to microservices & cloud](https://youtu.be/jo46-CP6ywU)
+- [WJUG #164​ - Mhm, mikroserwisy. Już wiesz, że wtopiłeś... - Marcin Matuszak](https://youtu.be/d_RwASXkPqE)
+- [WJUG #207​ - Mateusz Gajewski: 4 lata rewolucji mikrousługowej w Allegro](https://youtu.be/_X89vxbuExE)
+- [WJUG #189​ - Consumer Driven Contracts and Your Microservice Architecture - Marcin Grzejszczak](https://youtu.be/sAAklvxmPmk)
