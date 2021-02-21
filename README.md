@@ -116,4 +116,5 @@ Great series about design patterns. Very pedagogical approach with lot of drawin
 - [No Kill Switch](https://no-kill-switch.ghost.io/)
 - [Object Calisthenics | William Durand](https://williamdurand.fr/2013/06/03/object-calisthenics/)
 - [Touk team blog](https://touk.pl/blog/)
+- [Blog książkowy - Kamil Bugno](http://www.blog-ksiazkowy.pl/blog-ksiazkowy/) - recenzje książek również programistycznych
 
