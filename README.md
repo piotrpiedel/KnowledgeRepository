@@ -5,6 +5,7 @@
 - [Polish JUG (Kraków)](https://www.youtube.com/channel/UCFQJHkJln2LF1gYy3lMqCnw)
 - [Devoxx](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg)
 - [GOTO Conferences](https://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA)
+- [DevUpgrade.online](https://www.youtube.com/channel/UCvNne80z8XObPYIhDwnKDrg) - Sławomir Sobótka, Jakub Pilimon
 
 ### Prelegents:
 - Adam Dubiel
