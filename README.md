@@ -38,6 +38,7 @@
 - [2016 - Tomasz Borek - Junior, szuka pracy, jak znaleźć tę dobrą](https://youtu.be/qcsyB_470kw)
 - [2013 - Wojciech Seliga - Java Developer Career Unplugged](https://youtu.be/k5aIOMuG1Js)
 - [2012 - Sławomir Sobótka - Ścisły przewodnik po aspektach miękkich dla ekspertów IT](https://youtu.be/1tN_Dgbw1BY)
+- [Toruń JUG #43 - "10 rzeczy które chciałbyś powiedzieć 10-lat młodszemu sobie" - Krzysztof Kaczmarek](https://youtu.be/PFVsZMyV_UI)
 ### Design Patterns in Object Oriented Programming
 - [Video series on Design Patterns for Object Oriented Languages 
 Christopher Okhravi](https://youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
