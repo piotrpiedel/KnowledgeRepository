@@ -119,4 +119,5 @@ Great series about design patterns. Very pedagogical approach with lot of drawin
 - [Object Calisthenics | William Durand](https://williamdurand.fr/2013/06/03/object-calisthenics/)
 - [Touk team blog](https://touk.pl/blog/)
 - [Blog książkowy - Kamil Bugno](http://www.blog-ksiazkowy.pl/blog-ksiazkowy/) - recenzje książek również programistycznych
+- [Refactoring guru](https://refactoring.guru/)
 
